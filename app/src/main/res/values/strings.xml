@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">我的同步器</string>
+    <string name="pullLatestVersionButton">拉取最新版本</string>
+    <string name="exitApplication">退出应用</string>
+    <string name="returnHomepage">返回主页</string>
+    <string name="setting">设置</string>
+    <string name="gotoGitRep">前往Git仓库</string>
+    <string name="button_3">Button 3</string>
+    <string name="callToAuthor">联系作者</string>
+</resources>

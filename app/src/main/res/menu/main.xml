@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/setting" android:title="@string/setting" />
+    <item android:id="@+id/gotoGitRep" android:title="@string/gotoGitRep" />
+    <item android:id="@+id/callToAuthor" android:title="@string/callToAuthor" />
+<!--    <item android:id="@+id/remove_item" android:title="Remove" />-->
+</menu>
